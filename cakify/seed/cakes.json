@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cake-luna-velvet",
+    "bakerId": "baker-luna",
+    "title": "Guava Velvet",
+    "description": "Three-layer velvet cake infused with guava puree and mascarpone buttercream.",
+    "price": 65,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94",
+    "prepTimeMinutes": 240,
+    "tags": ["signature", "fruit"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-luna-safari",
+    "bakerId": "baker-luna",
+    "title": "Safari Caramel Crunch",
+    "description": "Salted caramel sponge with roasted macadamia praline shards.",
+    "price": 54,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9",
+    "prepTimeMinutes": 180,
+    "tags": ["caramel", "popular"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-ivy-rose",
+    "bakerId": "baker-ivy",
+    "title": "Rose Quartz",
+    "description": "Vegan vanilla bean sponge, rose cashew cream, and pressed florals.",
+    "price": 58,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1464349379623-0c2f58c1a4a0",
+    "prepTimeMinutes": 200,
+    "tags": ["vegan", "gluten-free"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-ivy-midnight",
+    "bakerId": "baker-ivy",
+    "title": "Midnight Cacao",
+    "description": "Single-origin chocolate, espresso soak, and coconut whip.",
+    "price": 62,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "prepTimeMinutes": 210,
+    "tags": ["chocolate", "espresso"],
+    "isFeatured": false
+  },
+  {
+    "id": "cake-yara-saffron",
+    "bakerId": "baker-yara",
+    "title": "Saffron Pistache",
+    "description": "Almond semolina sponge soaked in orange blossom syrup.",
+    "price": 70,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9",
+    "prepTimeMinutes": 260,
+    "tags": ["saffron", "pistachio"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-yara-cedar",
+    "bakerId": "baker-yara",
+    "title": "Atlas Cedar",
+    "description": "Honey yogurt cake with cedar-smoked caramel.",
+    "price": 55,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17",
+    "prepTimeMinutes": 190,
+    "tags": ["honey", "aromatic"],
+    "isFeatured": false
+  },
+  {
+    "id": "cake-emi-matcha",
+    "bakerId": "baker-emi",
+    "title": "Matcha Silk",
+    "description": "Airy chiffon layers with ceremonial-grade matcha cream.",
+    "price": 68,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+    "prepTimeMinutes": 230,
+    "tags": ["matcha", "chiffon"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-emi-yuzu",
+    "bakerId": "baker-emi",
+    "title": "Yuzu Cloud",
+    "description": "Citrus mousse domes with sable base and shiso crumble.",
+    "price": 72,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d",
+    "prepTimeMinutes": 300,
+    "tags": ["yuzu", "mousse"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-sasha-plantain",
+    "bakerId": "baker-sasha",
+    "title": "Plantain Toffee",
+    "description": "Plantain caramel cake with coconut praline crunch.",
+    "price": 52,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1497051788611-2c64812349a5",
+    "prepTimeMinutes": 180,
+    "tags": ["plantain", "caramel"],
+    "isFeatured": true
+  },
+  {
+    "id": "cake-sasha-hibiscus",
+    "bakerId": "baker-sasha",
+    "title": "Hibiscus Sunset",
+    "description": "Vanilla sponge with hibiscus gelée and coconut meringue.",
+    "price": 57,
+    "currency": "USD",
+    "photoUrl": "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+    "prepTimeMinutes": 210,
+    "tags": ["hibiscus", "tropical"],
+    "isFeatured": false
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "types": ["jest", "react", "react-native"],
+    "baseUrl": "./",
+    "paths": {
+      "@cakify/*": ["../*/src/*"],
+      "@mobile/*": ["src/*"]
+    }
+  },
+  "include": ["App.tsx", "src", "__tests__"],
+  "exclude": ["node_modules"]
+}
