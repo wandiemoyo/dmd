@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@cakify/ui/*": ["packages/ui/src/*"],
+      "@cakify/config": ["packages/config/src/index.ts"],
+      "@cakify/types/*": ["packages/types/src/*"]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cakify",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Cakify — on-demand cake delivery marketplace monorepo",
+  "author": "Cakify Team",
+  "license": "MIT",
+  "packageManager": "pnpm@9.12.0",
+  "scripts": {
+    "lint": "pnpm biome check .",
+    "format": "pnpm biome format .",
+    "typecheck": "pnpm -r run typecheck",
+    "test": "pnpm -r test",
+    "dev:mobile": "cd apps/mobile && pnpm start",
+    "dev:admin": "cd apps/admin && pnpm dev",
+    "dev:api": "cd apps/api && pnpm dev"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.3",
+    "typescript": "^5.6.3"
+  }
+}
